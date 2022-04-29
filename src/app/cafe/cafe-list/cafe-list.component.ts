@@ -13,10 +13,8 @@ export class CafeListComponent implements OnInit {
   constructor(private cafeService: CafeService) { }
 
   ngOnInit(): void {
-    console.log('Loading cafes...');
     this.cafeService.getCafes().subscribe(
       (cafes: Cafe[]) => {
-        console.log('Cafes loaded', cafes);
         this.cafes = cafes;
       }
     );
