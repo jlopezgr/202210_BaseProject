@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Especial para tí",
+    "tipo": "Blend",
+    "region": "Angelópolis, Antioquia",
+    "sabor": "Panela, Durazno, Caramelo",
+    "altura": 1920,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-para-ti-colores-cafe-colombiano-f_1_720x.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Café Especial Navegante",
+    "tipo": "Café de Origen",
+    "region": "Guatapé, Antioquia",
+    "sabor": "Cítrico, Naranja, Cacao",
+    "altura": 1800,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-navegante-cafe-colombiano-f_540x.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Café Especial El Prístino",
+    "tipo": "Blend",
+    "region": "Chinchiná, Caldas",
+    "sabor": "Chocolate negro, Caramelo",
+    "altura": 1700,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-pristino-1-cafe-colombiano-f_720x.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Café Especial Valentina",
+    "tipo": "Café de Origen",
+    "region": "Fredonia, Antioquia",
+    "sabor": "Chocolate, Cáscara de limón, Nuez",
+    "altura": 1700,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-valentina-cafe-colombiano_1_720x.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Café Especial Sombrero Vueltiao",
+    "tipo": "Café de Origen",
+    "region": "Amagá, Antioquia",
+    "sabor": "Chocolate, Frutos secos, Frutos rojos, Caña de azúcar",
+    "altura": 1450,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especal-sombrero-vueltiao-2-cafe-colombiano-f_720x.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Café Especial La Manchuria",
+    "tipo": "Blend",
+    "region": "Salgar, Antioquia",
+    "sabor": "Vino, Notas dulces, Frutos rojos",
+    "altura": 1850,
+    "imagen": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especal-manchuria-cafe-colombiano-f_720x.png"
+  }
+]

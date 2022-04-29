@@ -1,3 +1,12 @@
 * [lang^=en] {
   color: green;
 }
+
+* {
+  font-family: Inter;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 100px;
+}

@@ -1,0 +1,21 @@
+h1 {
+  font-family: Indie Flower;
+  font-style: regular;
+  font-size: 36px;
+}
+
+img {
+  height: 323px;
+  width: 100%;
+  object-fit: cover;
+}
+
+thead, .coffee-id {
+  font-weight: bold;
+}
+
+table {
+  font-family: Inter;
+  border-collapse: separate;
+  border-spacing:0 5px;
+}
